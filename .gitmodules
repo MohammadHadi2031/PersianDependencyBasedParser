@@ -1,0 +1,6 @@
+[submodule "PerDT"]
+	path = PerDT
+	url = git@github.com:UniversalDependencies/UD_Persian-PerDT.git
+[submodule "UPDT"]
+	path = UPDT
+	url = git@github.com:UniversalDependencies/UD_Persian-Seraji.git
