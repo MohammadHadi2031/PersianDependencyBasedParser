@@ -4,3 +4,6 @@
 [submodule "UPDT"]
 	path = UPDT
 	url = git@github.com:UniversalDependencies/UD_Persian-Seraji.git
+[submodule "BiLSTM"]
+	path = BiLSTM
+	url = git@github.com:MohammadHadi2031/emnlp2017-bilstm-cnn-crf.git
