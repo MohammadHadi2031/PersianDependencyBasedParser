@@ -7,3 +7,6 @@
 [submodule "BiLSTM"]
 	path = BiLSTM
 	url = git@github.com:MohammadHadi2031/emnlp2017-bilstm-cnn-crf.git
+[submodule "BertEmbedding"]
+	path = BertEmbedding
+	url = git@github.com:imgarylai/bert-embedding.git
